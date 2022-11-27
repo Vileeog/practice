@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void){
+  printf("Hello world, I am Zeus.");
+  printf("Can we be friends?");
+}
+return 0;
